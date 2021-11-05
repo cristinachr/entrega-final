@@ -1,7 +1,5 @@
 # Introducción a la programación para el Diseño de interacción
 
-### Trabajo final: Prototipo interactivo rápido
+### Trabajo final: [Prototipo interactivo rápido](https://cristinachr.github.io/ixd-sesion-10/)
 
-- - - - - - - 
-
-[← CLASE ANTERIOR](https://github.com/profesorfaco/interaccion/tree/main/sesion_09) — [SIGUIENTE CLASE →](https://github.com/profesorfaco/interaccion/tree/main/sesion_11)
+#### Guía para entender, amar y cuidar a tu mascota
