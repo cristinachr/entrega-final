@@ -113,6 +113,8 @@ a:hover {
 }
 .header-news{
   background: #d199c6;
+  color: #fff9ed;
+  background-image: url(img/header-noticias.png)
 }
 
 .blog-post{
