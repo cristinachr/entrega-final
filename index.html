@@ -313,6 +313,47 @@
   </article>
 </section>
 
+<!-- Swiper JS -->
+
+<script src="https://unpkg.com/swiper/swiper-bundle.min.js"></script>
+<script src="app.js"></script>
+
+<script>
+  var swiper = new Swiper('.swiper-container', {
+  navigation: {
+  nextEl: '.swiper-button-next',
+  prevEl: '.swiper-button-prev'
+  },
+  slidesPerView: 1,
+  spaceBetween: 10,
+  // init: false,
+  pagination: {
+  el: '.swiper-pagination',
+  clickable: true,
+  },
+
+
+  breakpoints: {
+  620: {
+      slidesPerView: 1,
+      spaceBetween: 20,
+  },
+  680: {
+      slidesPerView: 2,
+      spaceBetween: 40,
+  },
+  920: {
+      slidesPerView: 3,
+      spaceBetween: 40,
+  },
+  1240: {
+      slidesPerView: 4,
+      spaceBetween: 50,
+  },
+  } 
+  });
+</script>
+
   <section class="proximamente">
     <article class="container">
       <h1 class="pb-4 mb-4 border-bottom text-center">Información útil</h1>
